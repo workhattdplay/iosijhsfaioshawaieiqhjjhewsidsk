@@ -1,0 +1,27 @@
+{
+  "name": "drainer-finish",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node bot-new.js",
+    "bot": "node bot.js",
+    "bot:new": "node bot-new.js",
+    "server": "node server.js",
+    "server:new": "node server-new.js",
+    "donor": "node create-donor-session.js",
+    "dev:bot": "node bot-new.js",
+    "dev:server": "node server-new.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.22.1",
+    "fs-extra": "^11.2.0",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.64.0",
+    "p-limit": "^5.0.0",
+    "telegram": "^2.26.21"
+  }
+  
+}
